@@ -19,7 +19,7 @@ Want to see it in action? Watch the full demo video!
 ✨ **Fully Functional Music Player:** Play, pause, and seek through songs effortlessly.  
 🌀 **Modern UI:** Designed with a sleek dark theme for an immersive experience.  
 📱 **Mobile Responsive:** Works perfectly on desktops, tablets, and mobile devices.  
-🔍 **Search & Playlist Support:** Find songs easily and organize them in your library.  
+🔍 **Playlist Support:** Find songs easily and organize them in your library.  
 🍔 **Hamburger Menu:** Smooth mobile navigation for easy access.  
 
 ---
