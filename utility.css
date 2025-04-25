@@ -1,3 +1,9 @@
+body{
+    transform:scale(1.5);
+    transform-origin: top-left;
+}
+
+
 .border{
     border: 2px solid red;
     margin: 3px;
